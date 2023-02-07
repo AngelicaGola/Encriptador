@@ -32,6 +32,7 @@ main {
 .mensaje {
     background: white;
     background-image: url("/source/Muñeco.png");
+    background-position: center;
     background-repeat: no-repeat;
     border: none;
     border-radius: 32px;
